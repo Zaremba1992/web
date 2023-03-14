@@ -1,9 +1,23 @@
 
 
-.main-title{
-    font-family: 'Montserrat', sans-serif;
-    color:var( --mait-text-color)
+.header-block {
+    background-image:url(../img/logofigma.png)
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 1024px;
+    min-width: 320px;
+  
+}
+.main-title {
+    color:#FFFFFF;
+    font-weight: 400;
+    line-height: 55px;
+    letter-spacing: 0.2px;
+}
+  
     
+       
     
   
 
