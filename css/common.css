@@ -8,3 +8,8 @@
 :root{
     --mait-text-color:#FFFFFF;
 }
+
+img {
+    width: 100%;
+    display: block;
+}
